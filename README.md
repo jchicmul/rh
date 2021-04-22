@@ -1,2 +1,2 @@
-# rhhotelcoz
+# rh
 Control de RRHH
